@@ -57,7 +57,7 @@ dynamic power to 0.090W/0.004W (WQIFS1) and 0.089W/0.00389W (WQIFS2).
 ---
 
 ## 🛠 Technical Skills
-- **Languages:** Verilog HDL, SystemVerilog (Basics), C++, Python (Basics)  
+- **Languages:** Verilog HDL, SystemVerilog (Basics), C++ (Foundation), Python (Basics)  
 - **Tools:** Xilinx Vivado, Cadence Virtuoso, EDA Playground  
 - **Specialties:** Digital Design, RTL Design, FPGA Design, ASIC Design  
 
