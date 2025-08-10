@@ -1,4 +1,3 @@
-# SandeepKumarVerma-RTL-VLSI-Portfolio
 # Sandeep Kumar Verma – VLSI & FPGA Design Portfolio
 
 📍 Silchar, Assam, India  
