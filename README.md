@@ -80,6 +80,11 @@ You can download my latest resume here:
 *(Make sure to upload your resume file into the `Resume` folder in this repository so this link works.)*
 
 ---
+## 📜 Cover Letter
+You can download my latest resume here:  
+📄 [**Download Cover Letter (DOC)**](https://docs.google.com/document/d/1qOqTQDWjxSz05wzuFYyI-2e_jcFv0Frq/edit?usp=sharing&ouid=110947134605187477700&rtpof=true&sd=true)
+
+*(Make sure to upload your resume file into the `Resume` folder in this repository so this link works.)*
 
 ## 📬 Contact
 Feel free to connect with me on [LinkedIn](https://linkedin.com/in/sandeepkrverma044) or reach out via email at **sandeepkrverma22@gmail.com**.
