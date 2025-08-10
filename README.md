@@ -1,4 +1,4 @@
-# Sandeep Kumar Verma – VLSI & FPGA Design Portfolio
+# Sandeep Kumar Verma – VLSI Design Portfolio
 
 📍 Silchar, Assam, India  
 📧 **Email:** sandeepkrverma22@gmail.com  
