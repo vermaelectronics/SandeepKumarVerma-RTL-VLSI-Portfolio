@@ -24,27 +24,30 @@ I bring a blend of **academic rigor, hands-on project experience, and industry e
 
 ## 💼 Internship Experience
 ### FPGA Developer Intern – **Bariflo Cybernetics Pvt. Ltd.** *(Jan 2024 – Jun 2024)*
-- Designed a **Verilog HDL Water Quality Index** module using Mamdani fuzzy-logic on **Cora Z7-10 SoC**.
-- Performed **RTL verification** & power optimization in **Xilinx Vivado**.
-- Achieved <0.001% accuracy error in WQIFS1 and 7.74% in WQIFS2.
+- Designed and implemented a Verilog HDL Water Quality Index module with Mamdani fuzzy-logic on a Cora Z7-10
+ SoC board, achieving average accuracy errors of <0.001 % (WQIFS1) and 7.74% (WQIFS2).
+- Performed comprehensive RTL verification and system performance optimization in Xilinx Vivado, reducing static/
+dynamic power to 0.090W/0.004W (WQIFS1) and 0.089W/0.00389W (WQIFS2).
+- Deployed FPGA hardware with efficient resource utilization-111.95% Slice LUTs for WQIFS1 and 51.47% for WQIFS2
+ while gaining hands-on experience in end-to-end FPGA-based design and verification.
 
 ---
 
 ## 🚀 Key Projects
 ### [Design & Performance Optimization of IEEE-754 Floating-Point ALU on FPGA](https://github.com/vermaelectronics/Area-and-Resource-optimization-of-32-bit-Floating-Point-ALU)
- • Engineered four IEEE-754 format based ALU configurations (23/19/15/11-bit mantissas) on a Xilinx Artix-7 Nexys 4
+ - Engineered four IEEE-754 format based ALU configurations (23/19/15/11-bit mantissas) on a Xilinx Artix-7 Nexys 4
  DDR board using Verilog HDL and Vivado 2024.1, allowing seamless precision scaling for diverse applications.
- • Cut FPGA resource usage dramatically, slashing LUT count by 56% (3,016→1,314) and I/O pins by 35% (103→67)
+ - Cut FPGA resource usage dramatically, slashing LUT count by 56% (3,016→1,314) and I/O pins by 35% (103→67)
  while retaining >99.9% accuracy in the 23/19/15-bit versions and quantifying acceptable error in the 11-bit variant.
- • Synthesized a flexible datapath architecture with a leading-one detector for rapid normalization, custom rounding logic,
+ - Synthesized a flexible datapath architecture with a leading-one detector for rapid normalization, custom rounding logic,
  and a 4-to-1 operation multiplexer-optimizing performance and logic efficiency without specialized timing jargon.
 
 ### [Pipelined CORDIC Architecture based DDFS Design and Implementation](https://github.com/vermaelectronics/CORDIC_BASED_DDFS_CODE_SANDEEP)
-• Designed a pipelined Direct Digital Frequency Synthesizer using the CORDIC algorithm on a Xilinx Zynq-7000 SoC
+- Designed a pipelined Direct Digital Frequency Synthesizer using the CORDIC algorithm on a Xilinx Zynq-7000 SoC
  board with Verilog HDL and Vivado 2022.2, featuring on-chip VIO/ILA validation.
-• Implemented two scalable configurations-16-stage/16-bit LUT (27 µHz–99.72 MHz, 0.093 W, 252 slices, 732 FFs, 878
+- Implemented two scalable configurations-16-stage/16-bit LUT (27 µHz–99.72 MHz, 0.093 W, 252 slices, 732 FFs, 878
  LUTs) and 8-stage/8-bit LUT (55 µHz–97.77 MHz, 0.089 W, 153 slices, 184 FFs, 508 LUTs).
-• Streamlined the architecture to cut slice usage by 76% and LUT count by 26% versus baseline, while sustaining 99.72
+- Streamlined the architecture to cut slice usage by 76% and LUT count by 26% versus baseline, while sustaining 99.72
  MHz output at under 0.1 W.
 
 ## 📄 Publications
