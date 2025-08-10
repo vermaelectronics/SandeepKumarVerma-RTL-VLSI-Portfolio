@@ -75,7 +75,7 @@ dynamic power to 0.090W/0.004W (WQIFS1) and 0.089W/0.00389W (WQIFS2).
 
 ## 📜 Resume
 You can download my latest resume here:  
-📄 [**Download Resume (PDF)**](Resume/Sandeep_Kr_Verma_Resume.pdf)  
+📄 [**Download Resume (PDF)**](Resume/[Sandeep_Kr_Verma_Resume.pdf](https://drive.google.com/file/d/1AVbIUKK_KG_L_zDDh-DIdT003mwC3MP2/view?usp=drive_link))  
 
 *(Make sure to upload your resume file into the `Resume` folder in this repository so this link works.)*
 
