@@ -31,11 +31,11 @@ I bring a blend of **academic rigor, hands-on project experience, and industry e
 ---
 
 ## 🚀 Key Projects
-### [Design & Optimization of IEEE-754 Floating-Point ALU](https://github.com/vermaelectronics/Area-and-Resource-optimization-of-32-bit-Floating-Point-ALU)
+### [Design & Performance Optimization of IEEE-754 Floating-Point ALU on FPGA](https://github.com/vermaelectronics/Area-and-Resource-optimization-of-32-bit-Floating-Point-ALU)
 - Implemented scalable ALU on **Xilinx Artix-7 Nexys 4 DDR**.
 - Reduced LUT usage by **56%** while maintaining >99.9% accuracy.
 
-### [Pipelined CORDIC-based DDFS Design](https://github.com/vermaelectronics/CORDIC_BASED_DDFS_CODE_SANDEEP)
+### [Pipelined CORDIC Architecture based DDFS Design and Implementation](https://github.com/vermaelectronics/CORDIC_BASED_DDFS_CODE_SANDEEP)
 - Built a pipelined Direct Digital Frequency Synthesizer using **CORDIC algorithm** on **Zynq-7000 SoC**.
 - Cut LUT count by **26%** and slice usage by **76%** vs baseline.
 
