@@ -32,14 +32,20 @@ I bring a blend of **academic rigor, hands-on project experience, and industry e
 
 ## 🚀 Key Projects
 ### [Design & Performance Optimization of IEEE-754 Floating-Point ALU on FPGA](https://github.com/vermaelectronics/Area-and-Resource-optimization-of-32-bit-Floating-Point-ALU)
-- Implemented scalable ALU on **Xilinx Artix-7 Nexys 4 DDR**.
-- Reduced LUT usage by **56%** while maintaining >99.9% accuracy.
+ • Engineered four IEEE-754 format based ALU configurations (23/19/15/11-bit mantissas) on a Xilinx Artix-7 Nexys 4
+ DDR board using Verilog HDL and Vivado 2024.1, allowing seamless precision scaling for diverse applications.
+ • Cut FPGA resource usage dramatically, slashing LUT count by 56% (3,016→1,314) and I/O pins by 35% (103→67)
+ while retaining >99.9% accuracy in the 23/19/15-bit versions and quantifying acceptable error in the 11-bit variant.
+ • Synthesized a flexible datapath architecture with a leading-one detector for rapid normalization, custom rounding logic,
+ and a 4-to-1 operation multiplexer-optimizing performance and logic efficiency without specialized timing jargon.
 
 ### [Pipelined CORDIC Architecture based DDFS Design and Implementation](https://github.com/vermaelectronics/CORDIC_BASED_DDFS_CODE_SANDEEP)
-- Built a pipelined Direct Digital Frequency Synthesizer using **CORDIC algorithm** on **Zynq-7000 SoC**.
-- Cut LUT count by **26%** and slice usage by **76%** vs baseline.
-
----
+• Designed a pipelined Direct Digital Frequency Synthesizer using the CORDIC algorithm on a Xilinx Zynq-7000 SoC
+ board with Verilog HDL and Vivado 2022.2, featuring on-chip VIO/ILA validation.
+• Implemented two scalable configurations-16-stage/16-bit LUT (27 µHz–99.72 MHz, 0.093 W, 252 slices, 732 FFs, 878
+ LUTs) and 8-stage/8-bit LUT (55 µHz–97.77 MHz, 0.089 W, 153 slices, 184 FFs, 508 LUTs).
+• Streamlined the architecture to cut slice usage by 76% and LUT count by 26% versus baseline, while sustaining 99.72
+ MHz output at under 0.1 W.
 
 ## 📄 Publications
 - **Design and Performance Optimization of 32-Bit Floating-point ALU on a FPGA** – MNDCS 2025.  
